@@ -4,8 +4,9 @@
 }
 body {
     font-family: Verdana, sans-serif; margin:0;
-    background-color: #f5bebe;
-}
+    background-image:url("hygiene_bg.jpg");
+    /*background-color: #f5bebe;*/
+  }
 .btn {
   width: 100px;
   height: 25px;
@@ -15,8 +16,8 @@ body {
   top:100%;
   text-align: center;
   border: none;
-  border-radius: 50px;
-  background: #db5a63;
+  border-radius: 10px;
+  background: #907476;
   color: #fff;
   font-weight: 600;
   margin: 10px 0;
